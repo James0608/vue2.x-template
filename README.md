@@ -1,4 +1,4 @@
-# cloud_storage_web
+# vue2.x-template
 
 ## Project setup
 ```
