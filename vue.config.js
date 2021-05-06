@@ -6,6 +6,7 @@ module.exports = {
   outputDir: 'dist',
   // 放置生成的静态资源 (js、css、img、fonts) 的 (相对于 outputDir 的) 目录, 默认值为‘’
   assetsDir: '',
+  // 在 multi-page 模式下构建应用
   pages: {
     index: {
       // page 的入口
